@@ -1,0 +1,19 @@
+{
+  "name": "mailz",
+  "version": "0.0.0",
+  "description": "Convert HTML template into valid HTML emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickfrosty/mailz.git"
+  },
+  "author": "Nick Frostbutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickfrosty/mailz/issues"
+  },
+  "homepage": "https://github.com/nickfrosty/mailz#readme"
+}
